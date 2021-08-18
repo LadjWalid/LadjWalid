@@ -2,7 +2,7 @@
 - 👀 I’m interested in networking and security 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ladj-walid@outlook.fr
+- 📫 How to reach me 
 
 <!---
 LadjWalid/LadjWalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
